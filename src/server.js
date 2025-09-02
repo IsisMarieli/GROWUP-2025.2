@@ -1,5 +1,5 @@
 // const http = require('http') // CommonJS => require
-import http from 'node:http' // ESmodule => import/export 
+import http from 'node:http' // ESmodule => import/export node:http uso interno do node
 
 
 // - Criar usuários = POST
