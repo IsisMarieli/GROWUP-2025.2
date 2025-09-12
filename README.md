@@ -1,0 +1,1 @@
+# Conteúdo GrowUp - Embarque Digital 2025.2
